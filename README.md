@@ -6,11 +6,7 @@ This repository provides the data-availability package for the manuscript:
 
 ## Online Resources
 
-| URL | Contents |
-| --- | --- |
-| [GitHub repository](https://github.com/liuchonggroup/coord-informed) | Low-uncertainty virtual-library screening results, trained CP-model and SC/logbeta1 model weights, model-performance summaries, repository-level file index, and links to the source-code repository and Zenodo data archive. |
-| [Zenodo data archive](https://zenodo.org/records/21386870) / [DOI](https://doi.org/10.5281/zenodo.21386870) | Machine-readable processed datasets used by the study, including processed stability-constant datasets for model training and external validation, the literature-derived external stability-constant dataset, the processed mono-metal-ligand pair dataset, and the processed GibbsBeta data archive. |
-| [Hotpot source-code repository](https://github.com/Zhang-Zhiyuan-zzy/hotpot) | Model code, data-processing scripts and the packaged CP-connection workflow used by the coordination-informed modelling pipeline. |
+The GitHub repository, `coord-informed` (https://github.com/liuchonggroup/coord-informed), contains the low-uncertainty virtual-library screening results, trained CP-model and SC/logbeta1 model weights, and model-performance summaries; the Zenodo data archive, `Coordination-Informed Machine Learning Enables Screening of Phenanthroline Ligands by Predicting Am/Eu Binding Preferences` (https://zenodo.org/records/21386870; DOI: https://doi.org/10.5281/zenodo.21386870), contains the machine-readable processed datasets, including the literature-derived external stability-constant dataset, processed mono-metal-ligand pair dataset and GibbsBeta archive; the Hotpot source-code repository, `hotpot` (https://github.com/Zhang-Zhiyuan-zzy/hotpot), contains the model code, data-processing scripts and packaged CP-connection workflow.
 
 ## Contents
 
